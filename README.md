@@ -49,21 +49,20 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 |[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Cyebukayire)|![odilsonjs](https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark)
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=odilsonjs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=odilsonjs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+</p>
 
 <!-- START Contribution Graph SECTION -->
 <p align="center">
- <h2 align="center">Contribution Graph</h2>
+ <h1>Contribution Graph</h2>
 	
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilsonjs&theme=monokai" align="center" />
 </p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 	
 
 <hr>
@@ -74,18 +73,12 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-  <img src="coder.gif"></p>
-
-### Socials
-                  
-
-### Badges
-<b>My GitHub Stats</b>
-
-
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="margin-left: 70px;" width="225"/>
+ 
+</p>
 
       
-<b>Top Repositories</b>
+<h2 align="center" >Top Repositories</h2>
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/odilsonjs/Tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br><br><br>
