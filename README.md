@@ -43,10 +43,19 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 
 
 # 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark">
+</p>
 
-|Odilson's GitHub stats|Most used languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Cyebukayire)|![odilsonjs](https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark)
+## Odilson's GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=dark&hide_title=true">
+</p>
+
+## Odilson's most used languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 
 ## 🔝 Top Contributed Repo
@@ -68,16 +77,6 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 <hr>
 <!-- END Contribution Graph SECTION -->
 
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="margin-left: 70px;" width="225"/>
- 
-</p>
-
-      
 <h2 align="center" >Top Repositories</h2>
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
@@ -90,32 +89,19 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 
 <hr>
 
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="margin-left: 70px;" width="225"/>
  
-### 💻 Software and tools
-
-<p>
-    
-  <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
- <br>
 
-### 💻 Tech Stack and Skills:
+ 
+	
+<!-- START My favorite tools -->
+<h2 align="center">🛠️ My favorite tools</h2>
 
 <table align="center">
 
