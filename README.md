@@ -24,18 +24,21 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 
 ![](https://github-profile-trophy.vercel.app/?username=odilsonjs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=odilsonjs&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <!-- START Visitor Count -->
 <div align="center">
-<h2 align="centre">Visitors Count</h2>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{odilsonjs}/count.svg" /></p> 
+<h2 align="centre">Visitors Count</h2>
 <br>
 </div>
 
 <div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=odilsonjs&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 <p align="center">Counting of visitors to this page in this section started from Oct 9, 2023</p>
+
+
 <a href="https://info.flagcounter.com/XH3j"><img src="https://s11.flagcounter.com/count2/XH3j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>	  
 
@@ -44,40 +47,35 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=tokyonight">
 </p>
 
 ## Odilson's GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=dark&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=tokyonight&hide_title=true">
 </p>
 
 ## Odilson's most used languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 
 ## 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=odilsonjs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</p>
+</p><br><br>
 
 <!-- START Contribution Graph SECTION -->
-<p align="center">
  <h1>Contribution Graph</h2>
 	
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilsonjs&theme=monokai" align="center" />
-</p>
+</p><br><br>
 
-
-	
-
-<hr>
 <!-- END Contribution Graph SECTION -->
 
-<h2 align="center" >Top Repositories</h2>
+# Top Repositories
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/odilsonjs/Tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br><br><br>
@@ -86,22 +84,9 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Hangman" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Hangman&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/odilsonjs/calculator-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=calculator-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br></div><br><br><br><br>
-
-<hr>
-
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="margin-left: 70px;" width="225"/>
- 
-</p>
-
- 
 	
 <!-- START My favorite tools -->
-<h2 align="center">🛠️ My favorite tools</h2>
+<h1 align="center">🛠️ Tools and Skills</h1>
 
 <table align="center">
 
@@ -258,7 +243,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
   
 </tr>
 
-</table><br><br><br>
+</table><br><br>
 
 
 
@@ -307,12 +292,12 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
         <a href="https://www.threads.net/@odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="36" height="36" alt="Threads" /></a><br>Threads
   </td>
 </tr>
-</table>
+</table><br>
     
              
 
-### 💰 You can help me by Donating
- <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/odilsonjs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
+<h3 align="center">💰 You can help me by Donating 💰</h3>
+ <p align="center"><a href="https://www.buymeacoffee.com/odilsonjs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
