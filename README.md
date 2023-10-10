@@ -1,9 +1,10 @@
 <img width=100% src="welcome.svg" color="00bfbf">
+<h1 align="center">Hi, i'm Italis Odilson Woodly</h1>
+<h2 align="center">Full Stack Software Engineer</h2>
 
-Full Stack Software Engineer
 ----------------------------
-# 💫 About Me:
-Hi, i'm Italis Odilson Woodly, an enthusiastic self-taught full-stack web developer hailing from Haiti. My true passion in the realm of software development lies in envisioning creative ideas and bringing them to life through beautifully designed interfaces. I place great emphasis on ensuring top-notch user experiences, robust architectural designs, and impeccable code quality in everything I create.
+## 💫 About Me:
+My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web developer hailing from Haiti. My true passion in the realm of software development lies in envisioning creative ideas and bringing them to life through beautifully designed interfaces. I place great emphasis on ensuring top-notch user experiences, robust architectural designs, and impeccable code quality in everything I create.
 
  As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love.
 
@@ -12,7 +13,9 @@ Hi, i'm Italis Odilson Woodly, an enthusiastic self-taught full-stack web develo
 *   🧠  I'm learning Web Development at TOP (theodinproject)
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I am an Avenger. Tell everyone
-## 🏆 GitHub Trophies
+
+<a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🏆 GitHub Trophies 
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -33,24 +36,23 @@ Hi, i'm Italis Odilson Woodly, an enthusiastic self-taught full-stack web develo
 
 <div align="center">
 <p align="center">Counting of visitors to this page in this section started from Oct 9, 2023</p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=odilsonjs&label=Profile%20Views&icon=0&pretty=false" />
-</a>
 <a href="https://info.flagcounter.com/XH3j"><img src="https://s11.flagcounter.com/count2/XH3j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>	  
 
 
 
-<a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark&hide_border=false)<hr>
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<hr>
+|Odilson's GitHub stats|Most used languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=dark&hide_title=true)](https://github.com/Cyebukayire)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Cyebukayire)|![odilsonjs](https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<hr>
 
-### 🔝 Top Contributed Repo
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=odilsonjs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- START Contribution Graph SECTION -->
@@ -389,7 +391,7 @@ Hi, i'm Italis Odilson Woodly, an enthusiastic self-taught full-stack web develo
 </p>
                     
 
-  ### 💰 You can help me by Donating
+### 💰 You can help me by Donating
  <ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/odilsonjs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
 
   
