@@ -77,9 +77,13 @@ I am a self-taught developer with a love for React and Ruby on Rails
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/odilsonjs/Tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/odilsonjs/Tic-tac-toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Tic-tac-toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br><br><br>
 
-<div width="100%" align="center"><a href="https://github.com/odilsonjs/Hangman" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Hangman&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/odilsonjs/Hangman" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Hangman&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/odilsonjs/calculator-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=calculator-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br></div><br><br><br><br>
+
 <hr>
 
  
