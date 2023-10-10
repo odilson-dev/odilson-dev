@@ -258,77 +258,56 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
   
 </tr>
 
-</table>
+</table><br><br><br>
 
 
 
 
 ## 🌐 Connect with me:
-                  
-<p align="left">
-      <a href="https://discord.com/users/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.facebook.com/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="http://www.instagram.com/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.linkedin.com/in/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.stackoverflow.com/users/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.youtube.com/@odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.threads.net/@odilsonjs" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-    </picture>
-    </a></p>
+<table align="center">
+
+  <tr>
+     <td align="center" width="96">
+     <a href="https://discord.com/users/odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" alt="Discord" /></a>
+      <br>Discord
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.facebook.com/odilsonjs">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" width="48" height="48" />
+      </a>
+      <br>Facebook
+    </td>
+    <td align="center" width="96">
+    <a href="https://www.github.com/odilsonjs">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
+  </td>
+      
+  <td>
+  <a href="http://www.instagram.com/odilsonjs">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="48" height="48" />
+      </a><br>Instagram
+    </td>
+    <td align="center" width="96">
+    <a href="https://www.linkedin.com/in/odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a><br>LinkedIn
+    </td>
+    <td align="center" width="96">
+    <a href="https://www.stackoverflow.com/users/odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="36" height="36" alt="Stackoverflow" /></a><br>Stackoverflow
+  </td>
+    <td align="center" width="96">
+        <a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a><br>Twitter
+  </td>
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.youtube.com/@odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" /></a><br>YouTube
+  </td>
+    </td>
+    <td align="center" width="96">
+        <a href="https://www.threads.net/@odilsonjs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="36" height="36" alt="Threads" /></a><br>Threads
+  </td>
+</tr>
+</table>
     
              
 
