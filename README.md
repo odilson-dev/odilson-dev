@@ -1,10 +1,17 @@
 <img width=100% src="welcome.svg" color="00bfbf">
 
-Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Italis Odilson Woodly
-=============================================================================================================================================
-
 Full Stack Software Engineer
 ----------------------------
+# 💫 About Me:
+Hi, i'm Italis Odilson Woodly, an enthusiastic self-taught full-stack web developer hailing from Haiti. My true passion in the realm of software development lies in envisioning creative ideas and bringing them to life through beautifully designed interfaces. I place great emphasis on ensuring top-notch user experiences, robust architectural designs, and impeccable code quality in everything I create.
+
+ As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love.
+
+*   🌍  I'm based in Les Cayes, Haiti
+*   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
+*   🧠  I'm learning Web Development at TOP (theodinproject)
+*   🤝  I'm open to collaborating on interesting projects
+*   ⚡  I am an Avenger. Tell everyone
 ## 🏆 GitHub Trophies
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
@@ -15,19 +22,26 @@ Full Stack Software Engineer
 ![](https://github-profile-trophy.vercel.app/?username=odilsonjs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=odilsonjs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- START Visitor Count -->
+<div align="center">
+<h2 align="centre">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{odilsonjs}/count.svg" /></p> 
+<br>
+</div>
+
 <div align="center">
 <p align="center">Counting of visitors to this page in this section started from Oct 9, 2023</p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=odilsonjs&label=Profile%20Views&icon=0&pretty=false" />
+</a>
 <a href="https://info.flagcounter.com/XH3j"><img src="https://s11.flagcounter.com/count2/XH3j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>	  
 
-# 💫 About Me:
-I am a self-taught developer with a love for React and Ruby on Rails
 
-*   🌍  I'm based in Les Cayes
-*   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
-*   🧠  I'm learning Web Development at TOP (theodinproject)
-*   🤝  I'm open to collaborating on interesting projects
-*   ⚡  I am an Avenger. Tell everyone<a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=odilsonjs&theme=dark&hide_border=false)<hr>
@@ -46,24 +60,19 @@ I am a self-taught developer with a love for React and Ruby on Rails
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilsonjs&theme=monokai" align="center" />
 </p>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 	
 
-<p align="center">
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=odilsonjs&theme=github-compact" align="center"/>
-</p>
-	
-<p>
-<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakiliitju&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+<hr>
 <!-- END Contribution Graph SECTION -->
 
 
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" 
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+  <img src="coder.gif"></p>
 
 ### Socials
                   
