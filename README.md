@@ -1,9 +1,9 @@
 <img width=100% src="welcome.svg" color="00bfbf">
 <h1 align="center">Hi, i'm Italis Odilson Woodly</h1>
-<h2 align="center">Full Stack Software Engineer</h2>
+<h2 align="center">FullStack Software Engineer</h2>
 
 ----------------------------
-## 💫 About Me:
+# 💫 About Me:
 My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web developer hailing from Haiti. My true passion in the realm of software development lies in envisioning creative ideas and bringing them to life through beautifully designed interfaces. I place great emphasis on ensuring top-notch user experiences, robust architectural designs, and impeccable code quality in everything I create.
 
  As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love.
@@ -12,10 +12,11 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 *   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
 *   🧠  I'm learning Web Development at TOP (theodinproject)
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  I am an Avenger. Tell everyone
+*   ⚡  I love music and working out in my free time
 
 <a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-## 🏆 GitHub Trophies 
+
+# 🏆 GitHub Trophies 
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -74,7 +75,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
 </p><br><br>
 
 <!-- END Contribution Graph SECTION -->
-
+O.O
 # Top Repositories
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
@@ -124,7 +125,8 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
       <br>Rest
     </td>
     <td align="center" width="96">
-       <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><br>Metamask
+     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+      <br>MongoDB
     </td>
 </tr>
 
@@ -140,7 +142,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
       <br>Github
     </td>
     <td align="center"  width="96">
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>Ruby
+    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><br>Ruby
   </td>
     <td align="center"  width="96">
        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -184,7 +186,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
       <br>Postman
     </td>
      <td align="center" width="96">
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> Sass
+    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> SASS
 </td>
             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
@@ -234,9 +236,9 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
        
   </td>
     <td align="center" width="96">
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>Mongo
-    </td>
+  
+    
+  </td>
 <td align="center" width="96">
      
   </td>
