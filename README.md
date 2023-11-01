@@ -4,9 +4,7 @@
 
 ----------------------------
 # 💫 About Me:
-My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web developer hailing from Haiti. My true passion in the realm of software development lies in envisioning creative ideas and bringing them to life through beautifully designed interfaces. I place great emphasis on ensuring top-notch user experiences, robust architectural designs, and impeccable code quality in everything I create.
-
- As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love.
+My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I am learning Web development from TheOdinProject since august 2023. As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love. I love talking about Programming and other stuffs that cover the Tech area, so don't hesitate to contact me and start a conversation with me, you're always welcome.
 
 *   🌍  I'm based in Les Cayes, Haiti
 *   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
@@ -294,13 +292,11 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught full-stack web dev
   </td>
 </tr>
 </table><br>
-    
-             
 
 <h3 align="center">💰 You can help me by Donating 💰</h3>
  <p align="center"><a href="https://www.buymeacoffee.com/odilsonjs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
 
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <footer align="center">
 	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
