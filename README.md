@@ -13,7 +13,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 *   ⚡  I love music and working out in my free time
 
 <a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilsonjs?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
 # 🏆 GitHub Trophies 
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
