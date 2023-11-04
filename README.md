@@ -1,6 +1,6 @@
 <img width=100% src="welcome.svg" color="00bfbf">
 <h1 align="center">Hi, i'm Italis Odilson Woodly</h1>
-<h2 align="center">FullStack Software Engineer</h2>
+<h2 align="center">FullStack Software Developer</h2>
 
 ----------------------------
 # 💫 About Me:
