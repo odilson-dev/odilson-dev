@@ -1,19 +1,30 @@
 <img width=100% src="welcome.svg" color="00bfbf">
 <h1 align="center">Hi, i'm Italis Odilson Woodly</h1>
-<h2 align="center">FullStack Software Developer</h2>
 
 ----------------------------
+
+<p align="center">
+  <!-- Typing SVG by odilsonjs - https://github.com/odilsonjs/readme-typing-svg -->
+  <a href="https://github.com/odilsonjs/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;PASSIONATE%20ABOUT%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS;JS%20CAPTAIN%20;RUBY%20RANGER&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 # 💫 About Me:
-My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I am learning Web development from TheOdinProject since august 2023. As a self-taught developer, my heart belongs to technologies like React and Ruby on Rails, which I've grown to love. I love talking about Programming and other stuffs that cover the Tech area, so don't hesitate to contact me and start a conversation with me, you're always welcome.
+My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up my dream, this is where i discovered [TheOdinProject](www.theodinproject.com) a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web development from TOP since august 2023 and i've noticed a huge improvement in my development skills in just a few months.
 
 *   🌍  I'm based in Les Cayes, Haiti
 *   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
-*   🧠  I'm learning Web Development at TOP (theodinproject)
+*   🧠  I'm currently learning Web Development at [TheOdinProject](www.theodinproject.com)
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I love music and working out in my free time
 
+ ![Snake animation](https://github.com/odilsonjs/odilsonjs/blob/output/github-contribution-grid-snake.svg)
+ 
 <a href="https://www.github.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilsonjs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilsonjs" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilsonjs?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilsonjs?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
+
+
+
 # 🏆 GitHub Trophies 
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
@@ -56,7 +67,7 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 
 ## Odilson's most used languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=tokyonight&layout=compact"width="47%"/> 
 </p>
 
 
@@ -68,11 +79,18 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 <!-- START Contribution Graph SECTION -->
  <h1>Contribution Graph</h2>
 	
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilsonjs&theme=monokai" align="center" />
-</p><br><br>
+
 
 <!-- END Contribution Graph SECTION -->
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=odilsonjs&theme=react-dark&hide_border=false&hide_title=true&area=true&custom&title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p><br><br>
+<!-- activity graph heroku-app end -->
+
 # Top Repositories
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
@@ -233,7 +251,8 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
        
   </td>
     <td align="center" width="96">
-  
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+      <br>Webpack
     
   </td>
 <td align="center" width="96">
@@ -296,6 +315,14 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 <h3 align="center">💰 You can help me by Donating 💰</h3>
  <p align="center"><a href="https://www.buymeacoffee.com/odilsonjs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
 
+<!--  
+----------------------------
+
+ <div align="center">
+  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+</div>
+
+---------------------------- -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <footer align="center">
