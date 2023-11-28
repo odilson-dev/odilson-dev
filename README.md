@@ -6,11 +6,11 @@
 <p align="center">
   <!-- Typing SVG by odilsonjs - https://github.com/odilsonjs/readme-typing-svg -->
   <a href="https://github.com/odilsonjs/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;PASSIONATE%20ABOUT%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS;JS%20CAPTAIN%20;RUBY%20RANGER&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;PASSIONATE%20ABOUT%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS;ALWAYS%20DELIVER%20MORE%20THAN%20EXPECTED;JAVASCRIPT%20CAPTAIN%20;RUBY%20RANGER;PYTHONATOR&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 # 💫 About Me:
-My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up my dream, this is where i discovered [TheOdinProject](www.theodinproject.com) a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web development from TOP since august 2023 and i've noticed a huge improvement in my development skills in just a few months.
+My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up on my dream, this is where i discovered [TheOdinProject](www.theodinproject.com) a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web development from TOP since august 2023 and i've noticed a huge improvement in my development skills in just a few months.
 
 *   🌍  I'm based in Les Cayes, Haiti
 *   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
@@ -26,7 +26,8 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 
 
 
-# 🏆 GitHub Trophies 
+
+# 🏆 GitHub Trophies 🏆
 <!-- START My Github Profile Trophy SECTION -->
 <p align="center">
   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
@@ -79,18 +80,15 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 
 <!-- START Contribution Graph SECTION -->
  <h1>Contribution Graph</h2>
+ <p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=odilsonjs&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
 	
 
 
 <!-- END Contribution Graph SECTION -->
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=odilsonjs&theme=react-dark&hide_border=false&hide_title=true&area=true&custom&title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p><br><br>
-<!-- activity graph heroku-app end -->
 
 # Top Repositories
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
