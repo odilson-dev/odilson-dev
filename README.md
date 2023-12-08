@@ -10,11 +10,11 @@
 </p>
 
 # 💫 About Me:
-My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up on my dream, this is where i discovered [TheOdinProject](www.theodinproject.com) a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web development from TOP since august 2023 and i've noticed a huge improvement in my development skills in just a few months.
+My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing from Haiti. I aspire to become a World class Software Developer. I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up on my dream, this is where i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web development from TOP since august 2023 and i've noticed a huge improvement in my development skills in just a few months.
 
 *   🌍  I'm based in Les Cayes, Haiti
 *   ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
-*   🧠  I'm currently learning Web Development at [TheOdinProject](www.theodinproject.com)
+*   🧠  I'm currently learning Web Development at <a href="https://www.theodinproject.com">TheOdinProject</a>
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I love music and working out in my free time
 
@@ -79,16 +79,24 @@ My name is Italis Odilson Woodly, an enthusiastic self-taught developer hailing 
 </p><br><br>
 
 <!-- START Contribution Graph SECTION -->
- <h1>Contribution Graph</h2>
+ ## Monthly Contribution Graph</h2>
+	
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilsonjs&theme=tokyonight" align="center" />
+</p><br><br>
+	
+
+ ## Daily Contribution Graph
  <p align="center">
     <a href="https://jharohit.com.np/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=odilsonjs&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p><br><br>
 	
 
 
 <!-- END Contribution Graph SECTION -->
+
 
 # Top Repositories
 <div width="100%" align="center"><a href="https://github.com/odilsonjs/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilsonjs&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
