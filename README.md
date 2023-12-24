@@ -66,7 +66,6 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer  <img src=
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=odilsonjs&show_icons=true&theme=tokyonight&hide_title=true">
 </p>
-
 ## Odilson's most used languages
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilsonjs&theme=tokyonight&layout=compact"width="47%"/> 
@@ -132,7 +131,8 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer  <img src=
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><br> Node JS
     </td>
     <td align="center" width="96">
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><br>Babel
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="48" height="48"/> </a> 
+      <br>React JS
   </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
@@ -219,8 +219,7 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer  <img src=
       <br>JQuery
     </td>
     <td align="center" width="96">
-        <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="48" height="48"/> </a> 
-      <br>React JS
+    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><br>Babel 
      </td>
      <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><br>Redux
