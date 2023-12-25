@@ -111,11 +111,10 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer  <img src=
 <h1 align="center">🛠️ Tools and Skills</h1>
 
 <table align="center">
-
   <tr>
      <td align="center" width="96">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-      <br>Figma
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -256,12 +255,11 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer  <img src=
     </td>
        
   </td>
-    <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
-    
+   
   </td>
 <td align="center" width="96">
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+      <br>Figma
      
   </td>
   
