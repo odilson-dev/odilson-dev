@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by odilson-dev - https://github.com/odilson-dev/readme-typing-svg -->
   <a href="https://github.com/odilson-dev/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;PASSIONATE%20ABOUT%20PROGRAMMING;ALWAYS%20LEARNING%20NEW%20THINGS;ALWAYS%20DELIVER%20MORE%20THAN%20EXPECTED;JAVASCRIPT%20CAPTAIN%20;RUBY%20RANGER;PYTHONATOR&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;ALWAYS%20LEARNING%20NEW%20THINGS;ALWAYS%20DELIVER%20MORE%20THAN%20EXPECTED;I%CONVERT%GREAT%IDEAS%NTO%EVEN BETTER%SOFTWARE&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 # 💫 About Me:
