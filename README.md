@@ -304,7 +304,7 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
   </td>
     </td>
     <td align="center" width="96">
-        <a href="https://www.threads.net/@odilsondev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="36" height="36" alt="Threads" /></a><br>Threads
+        <a href="https://www.threads.net/@odilson.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="36" height="36" alt="Threads" /></a><br>Threads
   </td>
 </tr>
 </table><br>
