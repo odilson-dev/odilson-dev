@@ -11,11 +11,16 @@
 
 # 💫 About Me:
 
-My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br> I studied CS for 3 years, but due to personal reason, decided to drop out. However, i didn't want to give up on my dream, and this is where i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web Development from TOP since august 2023 and i've noticed a huge improvement in my development skills.
+My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br> I studied CS for but i'm definitely a while but i'm definitely a self taught software develope. In summer 2023, i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer communit/ my. I've been learning Web Development from TOP since august 2023 and i've noticed a huge improvement in my development skills.
 
-- 🌍  I'm based in Les Cayes, Haiti
-- ✉️  You can contact me at [italisodilsonwoodly@gmail.com](mailto:italisodilsonwoodly@gmail.com)
-- 🧠  I'm currently learning Web Development at <a href="https://www.theodinproject.com">TheOdinProject</a>
+- 🌍  I'm based in **Les Cayes, Haiti**
+<!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
+
+- 💬 Ask me about **Ruby on Rail or React JS**
+
+- 📫 How to reach me **italisodilsonwoodly@gmail.com**
+
+- 🧠  I'm currently learning Web Development at [**TheOdinProject**](https://www.theodinproject.com)
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  I love music and working out in my free time
 
