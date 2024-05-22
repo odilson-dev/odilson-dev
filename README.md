@@ -6,17 +6,17 @@
 <p align="center">
   <!-- Typing SVG by odilson-dev - https://github.com/odilson-dev/readme-typing-svg -->
   <a href="https://github.com/odilson-dev/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;ALWAYS%20DELIVER%20MORE%20THAN%20EXPECTED;ALWAYS%20LEARNING%20NEW%20THINGS;I%20CONVERT%20GREAT%20IDEAS%20INTO%20EVEN%20BETTER%20SOFTWARE;&font=Fira%20Code&center=true&width=640&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20SOFTWARE%20DEVELOPER%20;HIGHLY%20CREATIVE%20AND%20INNOVATIVE%20SOFTWARE%20DEVELOPER;ALWAYS%20DELIVER%20MORE%20THAN%20EXPECTED;ALWAYS%20LEARNING%20NEW%20THINGS;WHO%20CONVERT%20GREAT%20IDEAS%20INTO%20EVEN%20BETTER%20SOFTWARE;&font=Fira%20Code&center=true&width=700&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 # 💫 About Me:
 
-My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br> I studied CS for but i'm definitely a while but i'm definitely a self taught software develope. In summer 2023, i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer communit/ my. I've been learning Web Development from TOP since august 2023 and i've noticed a huge improvement in my development skills.
+My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br> I studied CS for a while but i'm definitely a self taught software developer. In summer 2023, i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web Development from TOP since august 2023 and i've noticed a huge improvement in my development skills.
 
 - 🌍  I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
 
-- 💬 Ask me about **Ruby on Rail or React JS**
+- 💬 Ask me about **Ruby on Rail and React JS**
 
 - 📫 How to reach me **italisodilsonwoodly@gmail.com**
 
