@@ -11,7 +11,7 @@
 
 # 💫 About Me:
 
-My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br> I studied CS for a while but i'm definitely a self taught software developer. In summer 2023, i discovered <a href="https://www.theodinproject.com">TheOdinProject</a> a free, open-source coding curriculum available entirely online and supported by a hight skilled developer community. I've been learning Web Development from TOP since august 2023 and i've noticed a huge improvement in my development skills.
+My name is Italis Odilson Woodly, I'm a self taught Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> hailing from Haiti.<br>. I learned how to code from <a href="https://www.theodinproject.com">**TheOdinProject**</a> a free, open-source coding curriculum available entirely online and supported by a high skilled developer community. I'm now building projects, contributing to **Open-source** and helping other students at **Odin**
 
 - 🌍  I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
@@ -20,7 +20,7 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
 
 - 📫 How to reach me **italisodilsonwoodly@gmail.com**
 
-- 🧠  I'm currently learning Web Development at [**TheOdinProject**](https://www.theodinproject.com)
+- 🧠  I'm currently building a **Social Media App**
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  I love music and working out in my free time
 
