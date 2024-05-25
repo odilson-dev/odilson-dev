@@ -16,7 +16,7 @@ My name is Italis Odilson Woodly, a self-taught Software Developer <img src="htt
 - 🌍  I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
 
-- 💬 Ask me about **Ruby on Rail and React JS**
+- 💬 Ask me about **Ruby on Rail and React**
 
 - 📫 How to reach me **italisodilsonwoodly@gmail.com**
 
