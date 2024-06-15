@@ -1,5 +1,5 @@
 <img width=100% src="welcome.svg" color="00bfbf">
-<h1 align="center">Hi, i'm Italis Odilson Woodly</h1>
+<h1 align="center">Hi, I'm Odilson Woodly Italis</h1>
 
 ---
 
