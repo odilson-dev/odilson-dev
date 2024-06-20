@@ -191,20 +191,16 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
 </tr>
 <tr>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS
-    </td>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+      <br>Figma
+     
+  </td>
     <td align="center" width="96">
       <a href="#ts">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-        <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
     </td>
      <td align="center" width="96">
     <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> SASS
@@ -213,9 +209,9 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-      <br>JQuery
+    <td align="center"  width="96">
+     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="36" height="36" alt="Ruby on Rails" /></a>
+      <br>Rails
     </td>
     <td align="center" width="96">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a><br>Babel 
@@ -223,10 +219,17 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
      <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><br>Redux
   </td>
-    <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
-  </td>
- </tr>
+  <td align="center" width="96">
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+      <br>Heroku
+    </td>
+    <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code
+    </td>
+   </tr>
 <tr>
      <td align="center" width="96">
       <a href="#ubuntu" >
@@ -237,31 +240,8 @@ My name is Italis Odilson Woodly, an enthusiastic FullStack Developer <img src="
      <td align="center" width="96">
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><br>Linux
   </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-     <td align="center"  width="96">
-     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="36" height="36" alt="Ruby on Rails" /></a>
-      <br>Rails
-    </td>
+      
   
-  </td>
-  <td align="center" width="96">
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-      <br>Heroku
-    </td>
-       
-  </td>
-   
-  </td>
-<td align="center" width="96">
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-      <br>Figma
-     
-  </td>
   
 </tr>
 
