@@ -10,6 +10,7 @@
 </p>
 
 # 💫 About Me:
+
 My name is Italis Odilson Woodly, and I am a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), a free, open-source coding curriculum available entirely online and supported by a highly skilled developer community. **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I can't recommend it highly enough. Now, I am building projects, contributing to **open-source initiatives**, and helping other students at **Odin**.
 
 - 🌍  I'm based in **Les Cayes, Haiti**
@@ -95,16 +96,6 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 </p><br><br>
 
 <!-- END Contribution Graph SECTION -->
-
-# Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/odilson-dev/Mastermind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilson-dev&repo=Mastermind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/odilson-dev/Connect-four" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilson-dev&repo=Connect-four&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br><br><br>
-
-<div width="100%" align="center"><a href="https://github.com/odilson-dev/Hangman" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilson-dev&repo=Hangman&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/odilson-dev/Chess-Ruby" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=odilson-dev&repo=Chess-Ruby&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br></div><br><br><br><br>
 
 <!-- START My favorite tools -->
 <h1 align="center">🛠️ Tools and Skills</h1>
