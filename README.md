@@ -73,12 +73,6 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilson-dev&theme=tokyonight&layout=compact"width="47%"/> 
 </p>
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=odilson-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
-</p><br><br>
-
 <!-- START Contribution Graph SECTION -->
 
 ## Monthly Contribution Graph</h2>
