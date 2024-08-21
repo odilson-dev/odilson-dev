@@ -1,8 +1,6 @@
 <img width=100% src="welcome.svg" color="00bfbf">
 <h1 align="center">Hi, I'm Odilson Woodly Italis</h1>
 
----
-
 <p align="center">
   <!-- Typing SVG by odilson-dev - https://github.com/odilson-dev/readme-typing-svg -->
   <a href="https://github.com/odilson-dev/readme-typing-svg">
@@ -26,8 +24,6 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 
 <a href="https://www.github.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilson-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilson-dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilson-dev?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
-
-![Snake animation](github-contribution-grid-snake.svg)
 
 # 🏆 GitHub Trophies 🏆
 
