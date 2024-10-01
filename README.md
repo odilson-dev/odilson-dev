@@ -25,7 +25,6 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 | **Frontend Development** | **HTML, CSS, JavaScript, React / Vue**   |
 | ------------------------ | ---------------------------------------- |
 | **Backend Development**  | **Ruby on Rails, Node/Express, Laravel** |
-| **Mobile Development**   | **React Native(in progess)**             |
 | **DataBase**             | **MySQL, PostgreSQL, MongoDB**           |
 | **ORMs**                 | **Active Record, Prisma, Eloquent**      |
 
