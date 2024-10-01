@@ -22,11 +22,12 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  I love music and working out in my free time
 
-| **Frontend Development** | **HTML, CSS, JavaScript, React / Vue**   |
-| :----------------------- | :--------------------------------------- |
-| **Backend Development**  | **Ruby on Rails, Node/Express, Laravel** |
-| **DataBase**             | **MySQL, PostgreSQL, MongoDB**           |
-| **ORMs**                 | **Active Record, Prisma, Eloquent**      |
+| **Frontend Development** | **HTML, CSS, JavaScript, TailwindCSS, React / Vue** |
+| :----------------------- | :-------------------------------------------------- |
+| **Backend Development**  | **Ruby on Rails, Node/Express, Laravel**            |
+| **DataBase**             | **MySQL, PostgreSQL, MongoDB**                      |
+| **ORMs**                 | **Active Record, Prisma, Eloquent**                 |
+| **Testing**              | **RSpec, Jest, Vitest**                             |
 
 <a href="https://www.github.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilson-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilson-dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilson-dev?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
