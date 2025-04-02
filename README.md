@@ -1,6 +1,3 @@
-<img width=100% src="welcome.svg" color="00bfbf">
-<h1 align="center">Hi, I'm Odilson Woodly Italis</h1>
-
 # 💫 About Me:
 
 My name is Italis Odilson Woodly, and I am a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), a free, open-source coding curriculum available entirely online and supported by a highly skilled developer community. **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond.
@@ -198,9 +195,3 @@ My name is Italis Odilson Woodly, and I am a self-taught software developer<img 
 
 <h3 align="center">💰 You can help me by Donating 💰</h3>
  <p align="center"><a href="https://www.buymeacoffee.com/odilson-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<footer align="center">
-	  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-</footer>
