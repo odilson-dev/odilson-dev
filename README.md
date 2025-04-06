@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-My name is Italis Odilson Woodly, and I am a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), a free, open-source coding curriculum available entirely online and supported by a highly skilled developer community. **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond.
+Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
 
 - 🌍  I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
