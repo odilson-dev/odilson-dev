@@ -2,16 +2,16 @@
 
 Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
 
-- 🌍  I'm based in **Les Cayes, Haiti**
+- 🌍 I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
 
 - 💬 Ask me about **FullStack Web Development**
 
 - 📫 How to reach me **italisodilsonwoodly@gmail.com**
 
-- 🧠  I'm currently building a **Social Media App**
-- 🤝  I'm open to collaborating on interesting projects
-- ⚡  I love music and working out in my free time
+- 🧠 I'm currently building a **Social Media App**
+- 🤝 I'm open to collaborating on interesting projects
+- ⚡ I love music and working out in my free time
 
 | **Frontend Development** | **TypeScript, TailwindCSS, React** |
 | :----------------------- | :--------------------------------- |
@@ -58,13 +58,13 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 ## Odilson's GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odilson-dev&show_icons=true&theme=tokyonight&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=odilson-dev&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="Odilson's GitHub Stats" />
 </p>
 
 ## Odilson's most used languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilson-dev&theme=tokyonight&layout=compact"width="47%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilson-dev&langs_count=8&theme=tokyonight&layout=pie" alt="Odilson's Most Used Languages" />
 </p>
 
 <!-- START Contribution Graph SECTION -->
