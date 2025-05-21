@@ -20,6 +20,11 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 | **DataBase**             | **PostgreSQL, MongoDB**            |
 | **ORM**                  | **Prisma**                         |
 
+<a href="https://github.com/odilson-dev/GitHub-Language-Stats">
+<img src="https://raw.githubusercontent.com/odilson-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/odilson-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
 <a href="https://www.github.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilson-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilson-dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilson-dev?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
 
