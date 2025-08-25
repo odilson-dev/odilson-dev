@@ -1,3 +1,7 @@
+<!-- Modern Dark Dev Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
+</p>
 # 💫 About Me:
 
 Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
@@ -52,19 +56,25 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odilson-dev&theme=tokyonight">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=odilson-dev&theme=tokyonight">
 </p>
 
-## Odilson's GitHub stats
-
+<!-- Enhanced Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odilson-dev&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="Odilson's GitHub Stats" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=odilson-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=odilson-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-## Odilson's most used languages
-
+<!-- Enhanced Stats Cards with Metrics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odilson-dev&langs_count=8&theme=tokyonight&layout=pie" alt="Odilson's Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odilson-dev&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odilson-dev&theme=tokyonight" />
+</p>
+
+<!-- Language Distribution -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odilson-dev&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odilson-dev&theme=tokyonight" />
 </p>
 
 <!-- START Contribution Graph SECTION -->
@@ -72,14 +82,14 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 ## Monthly Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilson-dev&theme=tokyonight" align="center" />
+  <img width="100%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odilson-dev&theme=tokyonight" align="center" />
 </p><br><br>
 
 ## Daily Contribution Graph
 
  <p align="center">
     <a href="https://jharohit.com.np/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=odilson-dev&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img width="100%"  src="https://github-readme-activity-graph.vercel.app/graph?username=odilson-dev&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p><br><br>
 
@@ -195,3 +205,12 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 <h3 align="center">💰 You can help me by Donating 💰</h3>
  <p align="center"><a href="https://www.buymeacoffee.com/odilson-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
+
+<p align="right">
+  <a href="#" title="Scroll to Top">
+    <img src="https://img.icons8.com/fluent/48/000000/circled-up-2.png" alt="Scroll to Top" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
