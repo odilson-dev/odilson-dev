@@ -2,6 +2,9 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/haiti_private/odilson-dev.svg)](https://user-badge.committers.top/haiti_private/odilson-dev)<br/>
+
 # 💫 About Me:
 
 Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
