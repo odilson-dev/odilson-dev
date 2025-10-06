@@ -3,9 +3,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/haiti_private/odilson-dev.svg)](https://user-badge.committers.top/haiti_private/odilson-dev)<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,git,github,figma" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Git, GitHub, Figma icons" />
+</p>
 
 # 💫 About Me:
+
+[![committers.top badge](https://user-badge.committers.top/haiti_private/odilson-dev.svg)](https://user-badge.committers.top/haiti_private/odilson-dev)
 
 Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
 
@@ -19,13 +23,6 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 - 🧠 I'm currently building a **Social Media App**
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ I love music and working out in my free time
-
-| **Frontend Development** | **TypeScript, TailwindCSS, React** |
-| :----------------------- | :--------------------------------- |
-| **Backend Development**  | **Node/Express, NEXT.JS**          |
-| **Mobile Development**   | **Learning React Native & Expo**   |
-| **DataBase**             | **PostgreSQL, MongoDB**            |
-| **ORM**                  | **Prisma**                         |
 
 <a href="https://www.github.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/odilson-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/odilson-dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/odilson-dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/odilson-dev?color=0891b2&style=for-the-badge&labelColor=1c1917&logo=star"/></a>
@@ -97,72 +94,6 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 </p><br><br>
 
 <!-- END Contribution Graph SECTION -->
-
-<!-- START My favorite tools -->
-<h1 align="center">🛠️ Tools and Skills</h1>
-
-<table align="center">
-  <tr>
-     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
-    </td>
-     <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ts">
-        <img src="./images/Next_js.png" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><br> Node JS
-    </td>
-    <td align="center" width="96">
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="48" height="48"/> </a> 
-      <br>React JS and React Native
-  </td>
-    <td align="center" width="96">
-     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-      <br>Figma
-     
-  </td>
-</tr>
-
-<tr>
-    <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="./images/github_logo.png" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-</tr>
-
-</table><br><br>
 
 ## 🌐 Connect with me:
 
