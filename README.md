@@ -12,11 +12,11 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 - 🌍 I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
 
-- 💬 Ask me about **FullStack Web Development**
+- 💬 Ask me about **FullStack Web Development and Mobile Apps**
 
 - 📫 How to reach me **italisodilsonwoodly@gmail.com**
 
-- 🧠 I'm currently building a **Social Media App**
+- 🧠 I'm currently building an **E-commerce App**
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ I love music and working out in my free time
 
@@ -217,3 +217,4 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+
