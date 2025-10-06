@@ -1,6 +1,6 @@
 <!-- Modern Dark Dev Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Frontend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20FullStack%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 <!-- Enhanced Stats Cards with Metrics -->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odilson-dev&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odilson-dev&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odilson-dev&theme=tokyonight&utcOffset=-4" />
 </p>
 
 <!-- Language Distribution -->
@@ -148,4 +148,3 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-
