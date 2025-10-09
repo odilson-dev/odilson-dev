@@ -97,9 +97,7 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 # 🛠️ Development Toolkit
 
-<p align="left">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=vscode,discord,render, vercel, docker, supabase, pnpm, bun, vitest, betterauth,chatgpt,claudeai,codepen,cursor,firefox,jest,jwt,linux,passportjs,prettier,reactquery,slack,supabase,thunderclient,v0,visualstudiocode,vite,ubuntu,windsurf" alt="IDEs and Tools" />
-</p>
+![](https://skills.syvixor.com/api/icons?perline=15&i=vscode,discord,render,vercel,docker,supabase,pnpm,bun,vitest,betterauth,chatgpt,claudeai,codepen,cursor,firefox,jest,jwt,linux,passportjs,prettier,reactquery,slack,supabase,thunderclient,v0,visualstudiocode,vite,ubuntu,windsurf)
 
 ## 🌐 Connect with me:
 
