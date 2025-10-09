@@ -95,47 +95,40 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 <!-- END Contribution Graph SECTION -->
 
+# 🛠️ Development Toolkit
+
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=vscode,discord,render, vercel, docker, supabase, pnpm, bun, vitest, betterauth,chatgpt,claudeai,codepen,cursor,firefox,jest,jwt,linux,passportjs,prettier,reactquery,slack,supabase,thunderclient,v0,visualstudiocode,vite,ubuntu,windsurf" alt="IDEs and Tools" />
+</p>
+
 ## 🌐 Connect with me:
 
-<table align="center">
-
-  <tr>
-     <td align="center" width="96">
-     <a href="https://discord.com/users/odilson-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="48" height="48" alt="Discord" /></a>
-      <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.facebook.com/odilson.dev">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" width="48" height="48" />
-      </a>
-      <br>Facebook
-    </td>
-    <td align="center" width="96">
-    <a href="https://www.github.com/odilson-dev">
-        <img src="./images/github_logo.png" alt="GitHub" width="65" height="65" />
-      </a>
-      <br>GitHub
-  </td>
-      
-  <td>
-  <a href="http://www.instagram.com/odilson.dev">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="48" height="48" />
-      </a><br>Instagram
-    </td>
-    <td align="center" width="96">
-    <a href="https://www.linkedin.com/in/odilson-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a><br>LinkedIn
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.x.com/odilsondev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a><br>Twitter
-  </td>
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.youtube.com/@odilsoncode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" /></a><br>YouTube
-  </td>
-    
-    
-</tr>
-</table><br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/odilson-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/odilson-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.x.com/odilsondev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://discord.com/users/odilson-dev" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@odilsoncode" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="http://www.instagram.com/odilson.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/odilson.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+   <a href="mailto:italisodilsonwoodly@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <h3 align="center">💰 You can help me by Donating 💰</h3>
  <p align="center"><a href="https://www.buymeacoffee.com/odilson-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
