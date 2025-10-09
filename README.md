@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,git,github,figma" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Git, GitHub, Figma icons" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15?radius=25&i=ts,js,react,reactnative,nextjs,expo,shadcn,nodejs,express,tailwind,postgres,mongodb,prisma,git,github,figma" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Git, GitHub, Figma icons" />
 </p>
 
 # 💫 About Me:
