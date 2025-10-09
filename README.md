@@ -11,10 +11,12 @@
 
 [![committers.top badge](https://user-badge.committers.top/haiti_private/odilson-dev.svg)](https://user-badge.committers.top/haiti_private/odilson-dev)
 
-Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
+Hi, I'm Odilson, a self-taught software developer. I learned to code through [**The Odin Project**](href="https://www.theodinproject.com") (TOP), **TOP** provided me with the knowledge, tools, and tips I needed to embark on my journey as a web developer and beyond. I'm actually building Real world projects and improving my skills in **Software Development**.
 
 - 🌍 I'm based in **Les Cayes, Haiti**
 <!-- - 📝 I regularly write articles on [https://pillai.xyz/dev](https://pillai.xyz/dev) -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" align="right">
 
 - 💬 Ask me about **FullStack Web Development and Mobile Apps**
 
@@ -97,7 +99,7 @@ Hi, I'm Odilson, a self-taught software developer<img src="https://media.giphy.c
 
 # 🛠️ Development Toolkit
 
-![](https://skills.syvixor.com/api/icons?perline=15&i=windsurf,cursor,render,vercel,docker,supabase,pnpm,bun,vite,vitest,betterauth,chatgpt,claudeai,firefox,jwt,linux,passportjs,prettier,reactquery,tanstack,zustand,discord,slack,supabase,mongodb,mysql,thunderclient,v0,ubuntu)
+![](https://skills.syvixor.com/api/icons?perline=15&i=windsurf,cursor,render,vercel,docker,supabase,pnpm,bun,vite,vitest,betterauth,chatgpt,shadcnui,claudeai,firefox,jwt,linux,passportjs,prettier,reactquery,tanstack,zustand,discord,slack,supabase,mongodb,mysql,thunderclient,v0,ubuntu)
 
 ## 🌐 Connect with me:
 
