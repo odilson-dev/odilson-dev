@@ -1,6 +1,6 @@
 <!-- Modern Dark Dev Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20FullStack%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=Odilson%20Woodly%20Italis&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FullStack%20Software%20Developer%20%7C%20Web%20and%20Mobile%20Apps&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ Hi, I'm Odilson, a self-taught software developer. I learned to code through [**
 
 # 🛠️ Development Toolkit
 
-![](https://skills.syvixor.com/api/icons?perline=15&i=windsurf,cursor,render,vercel,docker,supabase,pnpm,bun,vite,vitest,betterauth,chatgpt,shadcnui,claudeai,firefox,jwt,linux,passportjs,prettier,reactquery,tanstack,zustand,discord,slack,supabase,mongodb,mysql,thunderclient,v0,ubuntu)
+![](https://skills.syvixor.com/api/icons?perline=15&i=windsurf,cursor,render,vercel,docker,supabase,pnpm,bun,vite,vitest,betterauth,chatgpt,shadcnui,claudeai,firefox,jwt,linux,passportjs,prettier,reactquery,tanstack,zustand,discord,slack,mongodb,mysql,thunderclient,v0,ubuntu)
 
 ## 🌐 Connect with me:
 
