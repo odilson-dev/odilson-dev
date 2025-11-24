@@ -130,14 +130,14 @@ Hi, I'm Odilson, a self-taught software developer. I learned to code through [**
   </a>
 </p>
 
-<h3 align="center">💰 You can help me by Donating 💰</h3>
- <p align="center"><a href="https://www.buymeacoffee.com/odilson-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/>
+<br/>
 
-<p align="right">
-  <a href="#" title="Scroll to Top">
-    <img src="https://img.icons8.com/fluent/48/000000/circled-up-2.png" alt="Scroll to Top" width="40" height="40"/>
-  </a>
-</p>
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+<!-- 
+<h3 align="center">💰 You can help me by Donating 💰</h3>
+ <p align="center"><a href="https://www.buymeacoffee.com/odilson-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a><p/> -->
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
